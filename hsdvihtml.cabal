@@ -1,0 +1,17 @@
+name:                hsdvihtml
+version:             0.1.0.0
+-- synopsis:
+-- description:
+license:             BSD3
+license-file:        LICENSE
+author:              Syoudai Yokoyama
+maintainer:          quantumcars@gmail.com
+-- copyright:
+category:            Text
+build-type:          Simple
+cabal-version:       >=1.8
+
+executable hsdvihtml
+  main-is: Main.hs
+  -- other-modules:
+  build-depends:       base ==4.5.*
